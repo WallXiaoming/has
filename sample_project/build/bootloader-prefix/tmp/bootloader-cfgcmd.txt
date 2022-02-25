@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/jachin/esp/projects/has/sample_project/sdkconfig;-DIDF_PATH=/home/jachin/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=python;-DEXTRA_COMPONENT_DIRS=/home/jachin/esp/esp-idf/components/bootloader;-DPROJECT_SOURCE_DIR=/home/jachin/esp/projects/has/sample_project;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
